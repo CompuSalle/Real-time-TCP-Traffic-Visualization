@@ -26,4 +26,4 @@ The plot window will open and display the real-time traffic data. The x-axis sho
 - This program has been tested on Windows 10. 
 - It may not work on other operating systems.
 
-#### Have FUN ! ! ! 
+#### Have FUN! 
